@@ -6,14 +6,16 @@ A nifty classic for book-lovers on the web. To read the book go <a href="http://
 [<img src="https://raw.githubusercontent.com/marvindanig/assets/master/bubblin.png" width="44px" title="Bubblin Superbooks">](https://bubblin.io)
 
 
-This book uses the [Superbook](https://bubblin.io/docs/format) format and is brought to you by [Bubblin](https://bubblin.io/about)&#x2014;The Book Publishing Company for The Web.
+This book uses the [Superbook](https://bubblin.io/docs/format) format and is brought to you by [Bubblin](https://bubblin.io/about)&#x2014;The Publishing Company for The Web.
 
 
 <blockquote><p>Date of publication: <date id="date">June 22, 2019</date></p></blockquote>
 
 ### TABLET FIRST &amp; OFFLINE FIRST
 
-Superbooks are naturally responsive and are generally [supported](https://bubblin.io/support) across all browsers and devices. However, the most ideal surface to read these books on (recommended) are the \~9&quot; tablets like the iPad or the Galaxy Tab.
+Superbooks are naturally responsive and work on all browsers, all viewports and devices and all operating systems. See [support](https://bubblin.io/support) information. Generally speaking, the most ideal surface to read these books on (recommended) are the \~9&quot; tablets like the iPad or the Galaxy Tab.
+
+
 
 We try and suppport all devices and desktops&#x2014;meaning, all modern browsers, all viewports and all operating systems starting from an Apple Watch to an LCD TV. See our full list of supported devices [here](https://bubblin.io/devices).
 
