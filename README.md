@@ -13,12 +13,9 @@ This book uses the [Superbook](https://bubblin.io/docs/format) format and is bro
 
 ### TABLET FIRST &amp; OFFLINE FIRST
 
-Superbooks are naturally responsive and work on all browsers, all viewports and devices and all operating systems. See [support](https://bubblin.io/support) information. Generally speaking, the most ideal surface to read these books on (recommended) are the \~9&quot; 'on-web' tablets like the iPad or the Galaxy Tab.
+Superbooks are naturally responsive and work on all browsers, all viewports and devices and all operating systems. See support information [here](https://bubblin.io/support) and the full list of supported devices [here](https://bubblin.io/devices). In general, the most ideal surface to read these books on (recommended) are the \~9&quot; tablets like the iPad or the Galaxy Tab or Kindle Fire HD, ala 'on-web'.
 
 This book is _offline-first_ using a Service Worker, so no explicit download is required to read or share the book OFFLINE.
-
-
-We try and suppport all devices and desktops&#x2014;meaning, all modern browsers, all viewports and all operating systems starting from an Apple Watch to an LCD TV. See our full list of supported devices [here](https://bubblin.io/devices).
 
 
 
@@ -27,6 +24,8 @@ We try and suppport all devices and desktops&#x2014;meaning, all modern browsers
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
 [![Blueoak license](https://img.shields.io/badge/Blueoak-Council-blue.svg)](https://blueoakcouncil.org/license/1.0.0)
 
+
+We try and suppport cross-platform books—feel free to raise an issue or submit a PR if you face a problem.
 
 ---
 
