@@ -15,7 +15,7 @@ This book uses the [Superbook](https://bubblin.io/docs/format) format and is bro
 
 Superbooks are naturally responsive and work on all browsers, all viewports and devices and all operating systems. See support information [here](https://bubblin.io/support) and the full list of supported devices [here](https://bubblin.io/devices). In general, the most ideal surface to read these books on (recommended) are the \~9&quot; tablets like the iPad or the Galaxy Tab or Kindle Fire HD, ala 'on-web'.
 
-This book is _offline-first_ using a Service Worker, so no explicit download is required to read or share the book OFFLINE.
+This book is _offline-first_. Is uses a Service Worker under the hood, so no explicit download is required to read or share the book OFFLINE.
 
 
 
@@ -31,10 +31,10 @@ We try and suppport cross-platform books—feel free to raise an issue or submit
 
 ### MANUSCRIPT (this repo)
 
-The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io), [h2s](https://github.com/bookiza/h2s) and a few other markup sanitization libraries.
+The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io), [h2s](https://github.com/bookiza/h2s) and a few other sanitization libraries.
 
 
-:point_right: Note, this git repository is the `manuscript` while the book is _live_ and served hot on the url provided on top. This difference in the &apos;state of work&apos; is part of the vocabulary when publishing with Bookiza.
+:point_right: As part of the vocabulary of publishing with Bookiza, this git repo is the `manuscript` whereas the reader-ready book is hosted and _live_ on the url on top. This difference in the &apos;state of work&apos; is .
 
 
 ### FULLSCREEN MODE:
