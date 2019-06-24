@@ -13,13 +13,13 @@ This book uses the [Superbook](https://bubblin.io/docs/format) format and is bro
 
 ### TABLET FIRST &amp; OFFLINE FIRST
 
-Superbooks are naturally responsive and work on all browsers, all viewports and devices and all operating systems. See [support](https://bubblin.io/support) information. Generally speaking, the most ideal surface to read these books on (recommended) are the \~9&quot; tablets like the iPad or the Galaxy Tab.
+Superbooks are naturally responsive and work on all browsers, all viewports and devices and all operating systems. See [support](https://bubblin.io/support) information. Generally speaking, the most ideal surface to read these books on (recommended) are the \~9&quot; 'on-web' tablets like the iPad or the Galaxy Tab.
 
+This book is _offline-first_ using a Service Worker, so no explicit download is required to read or share the book OFFLINE.
 
 
 We try and suppport all devices and desktops&#x2014;meaning, all modern browsers, all viewports and all operating systems starting from an Apple Watch to an LCD TV. See our full list of supported devices [here](https://bubblin.io/devices).
 
-The live book is _offline-first_ using a Service Worker, so no explicit download is required to read or share the book OFFLINE.
 
 
 <a href="http://bubblin.io/cover/the-romance-of-lust-by-anonymous" class="cover"><img src="https://camo.githubusercontent.com/3d05c191fd879f30eee14672539100b9d74e23e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5375706572626f6f6b2d5075626c69736865642d627269676874677265656e2e737667" alt="Publication: Live" data-canonical-src="https://img.shields.io/badge/Superbook-Published-brightgreen.svg" style="max-width:100%;"></a>
