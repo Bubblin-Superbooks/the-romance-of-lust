@@ -34,10 +34,10 @@ We try and suppport cross-platform books—feel free to raise an issue or submit
 The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io), [h2s](https://github.com/bookiza/h2s) and a few other sanitization libraries.
 
 
-:point_right: As part of the vocabulary of publishing with Bookiza, this git repo is the `manuscript` whereas the reader-ready book is hosted and _live_ on the url on top. This difference in the &apos;state of work&apos; is .
+:point_right: As part of vocabulary of publishing with Bookiza, this git repo is the `manuscript` whereas the 'consumer-ready' distributable form i.e. `book` is hosted _live_ on the url at the top. 
 
 
-### FULLSCREEN MODE:
+### GOING FULLSCREEN 
 
 To be able to read the book in [fullscreen mode](https://bubblin.io/blog/fullscreen-api-ipad), please try these steps:
 
@@ -50,9 +50,9 @@ iPadOS Safari v12.0 and above only.
 ## HACKING, FIXES AND TRANSLATIONS
 
 
-#### A. HACKING THE BOOK
+#### A. HACK THE BOOK
 
-For example, if you want to mint your own edition of say `Pride &amp; Prejudice` (like typesetting it anew or adding new art or illustrations to it), follow the below given steps:
+To mint your own edition of say `Pride &amp; Prejudice` (you can re-typeset, add new art or illustrations or translate to another language), follow the below given steps:
 
 1. Fork this repository to your own Github Account,
 2. Clone the forked project to your local,
@@ -67,9 +67,7 @@ If you end up creating a new avatar of this book, please leave us a note here. W
 
 #### B. SUBMITTING FIXES
 
-PRs are absolutely welcome!
-
-Issues pertaining to only this book may be raised on this Github repository.
+PRs are absolutely welcome, although issues pertaining to only the book on this repository may be raised here.
 
 
 #### C. TRANSLATIONS
